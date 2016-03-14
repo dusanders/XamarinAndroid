@@ -1,0 +1,9 @@
+C:\Users\Dustin\Documents\Visual Studio 2015\Projects\XamarinAndroid\XamarinAndroid\obj\Debug\assemblies\XamarinAndroid.dll
+C:\Users\Dustin\Documents\Visual Studio 2015\Projects\XamarinAndroid\XamarinAndroid\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Dustin\Documents\Visual Studio 2015\Projects\XamarinAndroid\XamarinAndroid\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Dustin\Documents\Visual Studio 2015\Projects\XamarinAndroid\XamarinAndroid\obj\Debug\assemblies\System.Core.dll
+C:\Users\Dustin\Documents\Visual Studio 2015\Projects\XamarinAndroid\XamarinAndroid\obj\Debug\assemblies\System.dll
+C:\Users\Dustin\Documents\Visual Studio 2015\Projects\XamarinAndroid\XamarinAndroid\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Dustin\Documents\Visual Studio 2015\Projects\XamarinAndroid\XamarinAndroid\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Dustin\Documents\Visual Studio 2015\Projects\XamarinAndroid\XamarinAndroid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Dustin\Documents\Visual Studio 2015\Projects\XamarinAndroid\XamarinAndroid\obj\Debug\assemblies\System.ServiceModel.Internals.dll
